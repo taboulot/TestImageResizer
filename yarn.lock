@@ -764,9 +764,9 @@
     to-fast-properties "^2.0.0"
 
 "@bam.tech/react-native-image-resizer@^3.0.5":
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/@bam.tech/react-native-image-resizer/-/react-native-image-resizer-3.0.5.tgz#6661ba020de156268f73bdc92fbb93ef86f88a13"
-  integrity sha512-u5QGUQGGVZiVCJ786k9/kd7pPRZ6eYfJCYO18myVCH8FbVI7J8b5GT2Svjj2x808DlWeqfaZOOzxPqo27XYvrQ==
+  version "3.0.6"
+  resolved "https://registry.yarnpkg.com/@bam.tech/react-native-image-resizer/-/react-native-image-resizer-3.0.6.tgz#a4ed113dd86dc636ced4ccb9e6f46c62edd6386e"
+  integrity sha512-+YWyavtaGrdJ9P8kL+JwUSLkX9bfdQaLv0sXCJ2xxDhSVWLh5ENULL2agfdef7ZTysEXE6MWl1+U11WqnfCPrw==
 
 "@bcoe/v8-coverage@^0.2.3":
   version "0.2.3"
